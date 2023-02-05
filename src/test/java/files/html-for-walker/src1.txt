@@ -1,0 +1,5 @@
+<td>
+<a class="ita-kd-icon-button ita-kd-left ita-kd-floating-bar">
+<span class="ita-kd-icon-span ita-kd-img ita-kd-floating-bar-icon"></span>
+</a>
+</td>

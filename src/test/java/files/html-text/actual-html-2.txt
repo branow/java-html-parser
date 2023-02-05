@@ -1,0 +1,8 @@
+<div id="question-header" class="d-flex sm:fd-column">
+	<h1 itemprop="name" class="fs-headline1 ow-break-word mb8 flex--item fl1">
+		<a href="/questions/2932392/java-how-to-replace-2-or-more-spaces-with-single-space-in-string-and-delete-lead" class="question-hyperlink">Java how to replace 2 or more spaces with single space in string and delete leading and trailing spaces</a>
+	</h1>
+	<div class="ml12 aside-cta flex--item print:d-none sm:ml0 sm:mb12 sm:order-first sm:as-end">
+		<a href="/questions/ask" class="ws-nowrap s-btn s-btn__primary">Ask Question</a>
+	</div>
+</div>
